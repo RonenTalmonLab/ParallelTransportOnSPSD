@@ -1,15 +1,15 @@
-## ParallelTransportOnSPSD
+# ParallelTransportOnSPSD
 
 The code in this repository creates the figures presented in this article: https://arxiv.org/abs/2007.14272
 Please notice that in order to apply the code to the data sets, they need to be downloaded first from the following specified links.
 The code was developed and tested in Matlab R2019a.
 
-# Sanity check
+## Sanity check
 1. Download and install Manopt toolbox from this link: https://www.manopt.org/tutorial.html
 
 2. Run the file 'MainUnitTest1.m' in the folder 'ToyExample'.
 
-# Article figures
+## Article figures
 In order to restore the article figures do the following:
 
 3. Download the data and parser from this link: http://resources.mpi-inf.mpg.de/HDM05
