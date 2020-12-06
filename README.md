@@ -1,6 +1,7 @@
 # ParallelTransportOnSPSD
 
 The code in this repository creates the figures presented in this article: https://arxiv.org/abs/2007.14272
+
 Please notice that in order to apply the code to the data sets, they need to be downloaded first from the following specified links.
 The code was developed and tested in Matlab R2019a.
 
